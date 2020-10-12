@@ -1,0 +1,36 @@
+/* Show it is fixed to the top */
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+
+
+.section {
+  padding: 100px 0;
+}
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.carousel-caption {
+    padding-bottom:20%;
+}
+
+.col-lg-4 col-sm-6 mb-4{
+    background-size: cover;
+    
+}
+
+.py-5 bg-dark {
+    padding: 100px 0;
+    height: 100vh;
+    background-size: cover;
+}
